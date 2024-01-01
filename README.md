@@ -7,7 +7,10 @@ and gained an understanding in variables, conditionals, functions and basic conc
 At the end, the final project as a requirement was to combine all we learned to develop a pong game.
 My project came with a colourful background and a sound effect. This set my interest in programming and
 ultimately data science.
-After peer grading, I was ranked in the top two (2) for my work.
+After peer grading, I was ranked in the top two (2) for my work. (https://twitter.com/suacodeai/status/1279502823928016902/photo/1)
+
+A video of the demo pong game (https://twitter.com/suacodeai/status/1329731261955444740/video/1)
+
 
 ![Top Students From Peergrade](https://github.com/matth-adenyo/Pong-Game/assets/69389739/915f6fd1-eed1-4297-a6fd-486160025f97)
 
