@@ -20,5 +20,5 @@ Enjoy the game 😊
 #### Ranked among the top 3 students:
 ![Top Students From Peergrade](https://github.com/matth-adenyo/Pong-Game/assets/69389739/915f6fd1-eed1-4297-a6fd-486160025f97)
 
-#### Certificate of Completion:
+#### Certificate of Participation:
 ![Matthew Adenyo SuaCode Cert](https://github.com/matth-adenyo/Pong-Game/assets/69389739/9ac5d5bb-7803-4aaa-b6d6-f5f6d79f7a43)
